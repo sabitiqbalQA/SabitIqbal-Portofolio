@@ -1,37 +1,42 @@
-# Sabit Iqbal Maulana — Quality Improvement Portfolio
+# Sabit Iqbal Maulana — Quality Portfolio · BLUEPRINT EDITION
 
-A standalone, responsive website for **Sabit Iqbal Maulana** — Quality Assurance / In-Process Quality Control (IPQC), Industrial Engineering, and Continuous Improvement.
+This is a standalone static personal portfolio (HTML + CSS + JavaScript) that can be hosted on GitHub Pages, Netlify, or any static web server.
 
-## Visual design
+## Visual Identity
 
-The design is original and independent from Abdul Kholik's portfolio: editorial/industrial report styling with warm off-white, graphite/forest ink, vermilion-orange accents, oversized typography, a portrait-led introduction, and numbered case-file sections.
+- Obsidian / Midnight Graphite / Arctic Cyan, no orange or red football-club-like accent palette.
+- Premium, engineering-led hero with the Sabit portrait, 8D quality signature, and an interactive visual results story.
+- Responsive project cards, clickable recreated process diagrams and gallery lightbox.
 
-## Featured work
+## Main files
 
-1. **8D Cover D Scratch Quality Improvement**, Jul 2025–Apr 2026. Baseline 17 cases in July 2025, average 1.67 cases/month during Aug 2025–Apr 2026; 90.2% decrease relative to baseline; zero recorded cases in Jan, Mar and Apr 2026.
-2. **Digital Quality Finding & Risk Assessment System** — S/O/D fields and risk-focused reporting.
-3. **Automated Daily Review Reporting** — daily production and quality data.
-4. **RCM Filling Lithos Line 1** — preventive maintenance planning.
-5. **Forecasting & Master Production Schedule** — grease production planning.
+- `index.html` — all pages/sections on one scrolling website
+- `styles.css` — previous functional component foundations (recolored)
+- `redesign.css` — the new visual system; loaded AFTER styles.css and overrides its presentation
+- `script.js` — bilingual text, gallery, zoom, projects, chart, language/theme toggle and reading progress
+- `assets/CV-Sabit-Iqbal-Maulana.pdf` — downloadable public CV
+- `assets/sabit-iqbal-portrait.webp` — portrait
+- `assets/project-cover-d/*.svg` — public-safe reconstructed 16:9 diagrams (no private production photos)
 
-**Business impact spotlight:** Rp75,807,752/month is an *estimated reduction in potentially affected finished-goods output value*, calculated by scaling the July 2025 baseline by the average number of subsequent cases. It is **not verified cash savings**. Material loss and output value are different types of impact and must not be combined as financial savings.
+## Deploy to GitHub Pages
 
-## What's included
+1. Extract the ZIP.
+2. Upload **all files and the `assets` folder** to the ROOT of Sabit's repository that serves GitHub Pages, replacing the old files.
+3. Make sure both `styles.css` and `redesign.css` were uploaded, as well as `script.js` and `assets`.
+4. Commit and push. If the changes don't appear, hard-refresh the page with `Ctrl+F5`.
+5. Settings → Pages → Deploy from branch, main branch / root (unless your repository uses a different branch/folder).
 
-- Static website: `index.html`, `styles.css`, `script.js` (no PHP/build tools required)
-- Six presentation-derived 8D documentation images and an interactive project gallery
-- Sabit's corporate portrait as a website asset
-- **Latest user-provided CV**: `assets/CV-Sabit-Iqbal-Maulana.pdf`
-- Indonesian/English language toggle, light/dark mode, responsive navigation, project details, chart and image lightbox
+## Notes about public safety
 
-## Local preview
+This website deliberately uses reconstructed technical diagrams rather than confidential internal presentations. It omits operator photos, detailed internal financial losses, sensitive SRORDs/serial numbers and proprietary corporate forms. You are still responsible for employer approval to publish proprietary project information and results.
 
-Open this folder with VS Code and run **Live Server** on `index.html` or open `index.html` with a browser.
+## Interactive controls
 
-## Publishing
+- `ID / EN` button changes language; a preference is saved locally.
+- Moon/Sun button changes theme.
+- Case study and diagram thumbnails open a larger viewer.
+- Gallery: arrows for next/previous, + and − to zoom (100–300%), Esc to close.
+- Project arrow buttons open more project details.
+- Header includes a slim scroll progress indicator.
 
-See [DEPLOY.md](DEPLOY.md) for GitHub Pages / VS Code steps.
-
-## Publication note
-
-The 8D project visuals include production material from a company presentation. Verify that publication is authorized before making the repository public. The site does not include a backend or user database.
+No backend, database, API token or build command required.

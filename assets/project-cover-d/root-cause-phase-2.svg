@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" role="img" aria-label="PHASE 2  /  DEEPER SYSTEM INVESTIGATION">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#ffffff"/><stop offset="1" stop-color="#f5f4ef"/></linearGradient><linearGradient id="accent" x2="1"><stop stop-color="#159cbd"/><stop offset="1" stop-color="#83d9e9"/></linearGradient></defs>
+<rect width="1280" height="720" fill="url(#bg)"/>
+<rect width="1280" height="12" fill="#11263A"/>
+<rect x="54" y="37" width="58" height="52" rx="5" fill="#159cbd"/>
+<text x="83" y="72" fill="#11263A" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="800" letter-spacing="0" text-anchor="middle">QI</text>
+<text x="129" y="59" fill="#11263A" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="800" letter-spacing="2" text-anchor="start">8D QUALITY IMPROVEMENT</text>
+<text x="129" y="82" fill="#657382" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" letter-spacing="2" text-anchor="start">04 / WHY-WHY ANALYSIS</text>
+<text x="1225" y="65" fill="#657382" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="1.7" text-anchor="end">PUBLIC PORTFOLIO EDITION</text>
+<line x1="54" y1="110" x2="1226" y2="110" stroke="#D9DFE2" stroke-width="2"/>
+<text x="56" y="172" fill="#11263A" font-family="Arial, Helvetica, sans-serif" font-size="47" font-weight="800" letter-spacing="0" text-anchor="start">PHASE 2  /  DEEPER SYSTEM INVESTIGATION</text>
+<text x="57" y="204" fill="#657382" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="600" letter-spacing="0" text-anchor="start">Recurrent findings prompted a closer look at physical movement during screw installation.</text>
+<line x1="54" y1="647" x2="1226" y2="647" stroke="#C9D5D9" stroke-width="2"/>
+<rect x="0" y="665" width="1280" height="55" fill="#11263A"/>
+<text x="57" y="699" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" letter-spacing="0.9" text-anchor="start">SABIT IQBAL MAULANA  /  QUALITY ASSURANCE · IPQC</text>
+<text x="1226" y="699" fill="#B4C9D4" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" letter-spacing="0.7" text-anchor="end">ILLUSTRATIVE DIAGRAM · NO INTERNAL PHOTOGRAPHY</text>
+<rect x="55" y="235" width="1170" height="175" rx="11" fill="#FFFFFF" stroke="#D9E3E8" stroke-width="2"/>
+<rect x="55" y="235" width="210" height="175" rx="10" fill="#F1F4F6"/>
+<rect x="55" y="235" width="11" height="175" rx="0" fill="#159cbd"/>
+<text x="84" y="293" fill="#11263A" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="800" letter-spacing="0" text-anchor="start">HUMAN / PROCESS</text>
+<text x="84" y="331" fill="#159cbd" font-family="Arial, Helvetica, sans-serif" font-size="31" font-weight="800" letter-spacing="0" text-anchor="start">5 WHY</text>
+<rect x="286" y="260" width="205" height="124" rx="9" fill="#F4F8FA"/>
+<text x="301" y="291" fill="#225080" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="800" letter-spacing="1" text-anchor="start">OBSERVATION</text>
+<text x="301" y="324" fill="#11263A" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700" letter-spacing="0" text-anchor="start">Tool may slip</text>
+<line x1="495" y1="323" x2="512" y2="323" stroke="#159cbd" stroke-width="3"/>
+<path d="M 500 314 L 512 323 L 500 332" fill="none" stroke="#159cbd" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="512" y="260" width="205" height="124" rx="9" fill="#F4F8FA"/>
+<text x="527" y="291" fill="#225080" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="800" letter-spacing="1" text-anchor="start">WHY?</text>
+<text x="527" y="324" fill="#11263A" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700" letter-spacing="0" text-anchor="start">Table can move</text>
+<line x1="721" y1="323" x2="738" y2="323" stroke="#159cbd" stroke-width="3"/>
+<path d="M 726 314 L 738 323 L 726 332" fill="none" stroke="#159cbd" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="738" y="260" width="205" height="124" rx="9" fill="#F4F8FA"/>
+<text x="753" y="291" fill="#225080" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="800" letter-spacing="1" text-anchor="start">PROCESS GAP</text>
+<text x="753" y="324" fill="#11263A" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700" letter-spacing="0" text-anchor="start">Operator</text>
+<text x="753" y="348" fill="#11263A" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700" letter-spacing="0" text-anchor="start">stabilizes by hand</text>
+<line x1="947" y1="323" x2="964" y2="323" stroke="#159cbd" stroke-width="3"/>
+<path d="M 952 314 L 964 323 L 952 332" fill="none" stroke="#159cbd" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="964" y="260" width="205" height="124" rx="9" fill="#e7f7fb"/>
+<text x="979" y="291" fill="#159cbd" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="800" letter-spacing="1" text-anchor="start">ACTION</text>
+<text x="979" y="324" fill="#11263A" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700" letter-spacing="0" text-anchor="start">Reduce motion at</text>
+<text x="979" y="348" fill="#11263A" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700" letter-spacing="0" text-anchor="start">source</text>
+<rect x="55" y="428" width="1170" height="175" rx="11" fill="#FFFFFF" stroke="#D9E3E8" stroke-width="2"/>
+<rect x="55" y="428" width="210" height="175" rx="10" fill="#F1F4F6"/>
+<rect x="55" y="428" width="11" height="175" rx="0" fill="#187E70"/>
+<text x="84" y="486" fill="#11263A" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="800" letter-spacing="0" text-anchor="start">MACHINE / STATION</text>
+<text x="84" y="524" fill="#187E70" font-family="Arial, Helvetica, sans-serif" font-size="31" font-weight="800" letter-spacing="0" text-anchor="start">5 WHY</text>
+<rect x="286" y="453" width="205" height="124" rx="9" fill="#F4F8FA"/>
+<text x="301" y="484" fill="#225080" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="800" letter-spacing="1" text-anchor="start">OBSERVATION</text>
+<text x="301" y="517" fill="#11263A" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700" letter-spacing="0" text-anchor="start">Table moves</text>
+<line x1="495" y1="516" x2="512" y2="516" stroke="#187E70" stroke-width="3"/>
+<path d="M 500 507 L 512 516 L 500 525" fill="none" stroke="#187E70" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="512" y="453" width="205" height="124" rx="9" fill="#F4F8FA"/>
+<text x="527" y="484" fill="#225080" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="800" letter-spacing="1" text-anchor="start">WHY?</text>
+<text x="527" y="517" fill="#11263A" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700" letter-spacing="0" text-anchor="start">External force /</text>
+<text x="527" y="541" fill="#11263A" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700" letter-spacing="0" text-anchor="start">vibration</text>
+<line x1="721" y1="516" x2="738" y2="516" stroke="#187E70" stroke-width="3"/>
+<path d="M 726 507 L 738 516 L 726 525" fill="none" stroke="#187E70" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="738" y="453" width="205" height="124" rx="9" fill="#F4F8FA"/>
+<text x="753" y="484" fill="#225080" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="800" letter-spacing="1" text-anchor="start">SYSTEM GAP</text>
+<text x="753" y="517" fill="#11263A" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700" letter-spacing="0" text-anchor="start">Insufficient</text>
+<text x="753" y="541" fill="#11263A" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700" letter-spacing="0" text-anchor="start">physical stop</text>
+<line x1="947" y1="516" x2="964" y2="516" stroke="#187E70" stroke-width="3"/>
+<path d="M 952 507 L 964 516 L 952 525" fill="none" stroke="#187E70" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="964" y="453" width="205" height="124" rx="9" fill="#e7f7fb"/>
+<text x="979" y="484" fill="#187E70" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="800" letter-spacing="1" text-anchor="start">ACTION</text>
+<text x="979" y="517" fill="#11263A" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700" letter-spacing="0" text-anchor="start">Double Stopper</text>
+<text x="979" y="541" fill="#11263A" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700" letter-spacing="0" text-anchor="start">control</text>
+</svg>

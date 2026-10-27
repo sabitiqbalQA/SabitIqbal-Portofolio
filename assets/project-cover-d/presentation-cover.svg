@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" role="img" aria-label="ONE DEFECT. A SYSTEMATIC SOLUTION.">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#ffffff"/><stop offset="1" stop-color="#f5f4ef"/></linearGradient><linearGradient id="accent" x2="1"><stop stop-color="#159cbd"/><stop offset="1" stop-color="#83d9e9"/></linearGradient></defs>
+<rect width="1280" height="720" fill="url(#bg)"/>
+<rect width="1280" height="12" fill="#11263A"/>
+<rect x="54" y="37" width="58" height="52" rx="5" fill="#159cbd"/>
+<text x="83" y="72" fill="#11263A" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="800" letter-spacing="0" text-anchor="middle">QI</text>
+<text x="129" y="59" fill="#11263A" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="800" letter-spacing="2" text-anchor="start">8D QUALITY IMPROVEMENT</text>
+<text x="129" y="82" fill="#657382" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" letter-spacing="2" text-anchor="start">01 / OVERVIEW</text>
+<text x="1225" y="65" fill="#657382" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="1.7" text-anchor="end">PUBLIC PORTFOLIO EDITION</text>
+<line x1="54" y1="110" x2="1226" y2="110" stroke="#D9DFE2" stroke-width="2"/>
+<text x="56" y="172" fill="#11263A" font-family="Arial, Helvetica, sans-serif" font-size="47" font-weight="800" letter-spacing="0" text-anchor="start">ONE DEFECT. A SYSTEMATIC SOLUTION.</text>
+<text x="57" y="204" fill="#657382" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="600" letter-spacing="0" text-anchor="start">Reducing Cover D scratches during laptop assembly through structured 8D problem solving.</text>
+<line x1="54" y1="647" x2="1226" y2="647" stroke="#C9D5D9" stroke-width="2"/>
+<rect x="0" y="665" width="1280" height="55" fill="#11263A"/>
+<text x="57" y="699" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" letter-spacing="0.9" text-anchor="start">SABIT IQBAL MAULANA  /  QUALITY ASSURANCE · IPQC</text>
+<text x="1226" y="699" fill="#B4C9D4" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" letter-spacing="0.7" text-anchor="end">ILLUSTRATIVE DIAGRAM · NO INTERNAL PHOTOGRAPHY</text>
+<rect x="56" y="232" width="185" height="34" rx="6" fill="#159cbd"/>
+<text x="148.5" y="255" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="800" letter-spacing="0.7" text-anchor="middle">8D CASE STUDY</text>
+<rect x="55" y="287" width="1170" height="110" rx="12" fill="#E9F2F0"/>
+<text x="77" y="323" fill="#187E70" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="800" letter-spacing="1.3" text-anchor="start">THE QUALITY CHALLENGE</text>
+<text x="77" y="353" fill="#11263A" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="600" letter-spacing="0" text-anchor="start">Screwdriver contact during assembly created scratch findings on Cover D.</text>
+<text x="77" y="383" fill="#11263A" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="600" letter-spacing="0" text-anchor="start">A cross-functional team addressed both tool/operator factors and station stability.</text>
+<rect x="55" y="425" width="373" height="180" rx="10" fill="#FFFFFF" stroke="#DDE5E7" stroke-width="2"/>
+<text x="79" y="461" fill="#657382" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="800" letter-spacing="1.2" text-anchor="start">BASELINE</text>
+<text x="79" y="537" fill="#11263A" font-family="Arial, Helvetica, sans-serif" font-size="61" font-weight="800" letter-spacing="0" text-anchor="start">17</text>
+<text x="79" y="571" fill="#657382" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="500" letter-spacing="0" text-anchor="start">July 2025 findings</text>
+<rect x="453" y="425" width="373" height="180" rx="10" fill="#FFFFFF" stroke="#DDE5E7" stroke-width="2"/>
+<text x="477" y="461" fill="#657382" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="800" letter-spacing="1.2" text-anchor="start">MONTHLY AVERAGE</text>
+<text x="477" y="537" fill="#11263A" font-family="Arial, Helvetica, sans-serif" font-size="61" font-weight="800" letter-spacing="0" text-anchor="start">1.67</text>
+<text x="477" y="571" fill="#657382" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="500" letter-spacing="0" text-anchor="start">Aug 2025 – Apr 2026</text>
+<rect x="851" y="425" width="373" height="180" rx="10" fill="#FFFFFF" stroke="#DDE5E7" stroke-width="2"/>
+<text x="875" y="461" fill="#657382" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="800" letter-spacing="1.2" text-anchor="start">REDUCTION</text>
+<text x="875" y="537" fill="#159cbd" font-family="Arial, Helvetica, sans-serif" font-size="61" font-weight="800" letter-spacing="0" text-anchor="start">−90.2%</text>
+<text x="875" y="571" fill="#657382" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="500" letter-spacing="0" text-anchor="start">Compared with baseline</text>
+</svg>

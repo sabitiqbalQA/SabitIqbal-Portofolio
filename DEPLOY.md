@@ -1,44 +1,33 @@
-# Deploying the Sabit Portfolio with VS Code + GitHub Pages
+# GitHub Pages — Fast deployment
 
-## New repository
+The ZIP is ready to upload. **Do not upload the ZIP as a single file.** Extract it and upload the files to the root of the existing Sabit portfolio repository (or a new one).
 
-1. Extract the downloaded ZIP.
-2. Open the **sabit-iqbal-portofolio** folder in VS Code.
-3. In the terminal, run:
+The repository root should look like this:
 
-   ```bash
-   git init
-   git branch -M main
-   git add .
-   git commit -m "Launch Sabit quality improvement portfolio"
-   git remote add origin https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
-   git push -u origin main
-   ```
+```
+index.html
+styles.css
+redesign.css
+script.js
+README.md
+DEPLOY.md
+assets/
+  favicon.svg
+  sabit-iqbal-portrait.webp
+  CV-Sabit-Iqbal-Maulana.pdf
+  project-cover-d/
+    presentation-cover.svg
+    root-cause-phase-1.svg
+    countermeasure-phase-1.svg
+    root-cause-phase-2.svg
+    double-stopper.svg
+    improvement-results.svg
+```
 
-   Create the GitHub repository first; change `YOUR_USERNAME` and `YOUR_REPOSITORY` to the real values. Do not paste the placeholder URL unchanged.
+On GitHub, open your portfolio repository, choose **Add file → Upload files**, upload all the extracted files/folders, commit to your Pages branch. GitHub Pages can host this site directly because it uses relative paths and no build tooling.
 
-4. Go to **Repository → Settings → Pages**. Select **Deploy from a branch**, branch **main**, folder **/(root)**. Save. Wait for deployment to complete.
+Hard-refresh (`Ctrl+F5`) if a previous style persists due to browser caching. In particular verify `redesign.css` exists at the site's root. Keep a backup of your prior design if you may want to revert.
 
-## Updating an existing repository
+If using a GitHub Pages project repository with a URL like `https://username.github.io/repository-name/`, the relative `assets/...` paths work automatically.
 
-1. Make a backup if you want to keep the earlier website.
-2. Open the correct existing repository folder in VS Code.
-3. Run `git pull origin main` if your branch is `main`.
-4. Copy files **inside** this extracted folder into the repository folder and replace the old site files; do not delete its `.git` directory.
-5. Run:
-
-   ```bash
-   git status
-   git add .
-   git commit -m "Redesign Sabit portfolio with unique industrial editorial style"
-   git push origin main
-   ```
-
-**Important:** This is a different person's portfolio from Abdul Kholik's; use Sabit's own repository or hosted site, not Abdul's repository.
-
-## Notes
-
-- No database, PHP, or npm dependencies.
-- All photos, project documentation and the CV are relative files under `assets/`.
-- The fonts are requested from Google Fonts; browser fallback fonts are configured if external fonts cannot load.
-- Review company presentation imagery and personal contact details for permission before public release.
+Only publish company-related content once the relevant employer/publication permissions are confirmed.

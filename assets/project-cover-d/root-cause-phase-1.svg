@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" role="img" aria-label="PHASE 1  /  INITIAL ROOT CAUSE ANALYSIS">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#ffffff"/><stop offset="1" stop-color="#f5f4ef"/></linearGradient><linearGradient id="accent" x2="1"><stop stop-color="#159cbd"/><stop offset="1" stop-color="#83d9e9"/></linearGradient></defs>
+<rect width="1280" height="720" fill="url(#bg)"/>
+<rect width="1280" height="12" fill="#11263A"/>
+<rect x="54" y="37" width="58" height="52" rx="5" fill="#159cbd"/>
+<text x="83" y="72" fill="#11263A" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="800" letter-spacing="0" text-anchor="middle">QI</text>
+<text x="129" y="59" fill="#11263A" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="800" letter-spacing="2" text-anchor="start">8D QUALITY IMPROVEMENT</text>
+<text x="129" y="82" fill="#657382" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" letter-spacing="2" text-anchor="start">02 / ROOT CAUSE</text>
+<text x="1225" y="65" fill="#657382" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="1.7" text-anchor="end">PUBLIC PORTFOLIO EDITION</text>
+<line x1="54" y1="110" x2="1226" y2="110" stroke="#D9DFE2" stroke-width="2"/>
+<text x="56" y="172" fill="#11263A" font-family="Arial, Helvetica, sans-serif" font-size="47" font-weight="800" letter-spacing="0" text-anchor="start">PHASE 1  /  INITIAL ROOT CAUSE ANALYSIS</text>
+<text x="57" y="204" fill="#657382" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="600" letter-spacing="0" text-anchor="start">Systematic review of people, methods and tools used in the assembly task.</text>
+<line x1="54" y1="647" x2="1226" y2="647" stroke="#C9D5D9" stroke-width="2"/>
+<rect x="0" y="665" width="1280" height="55" fill="#11263A"/>
+<text x="57" y="699" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" letter-spacing="0.9" text-anchor="start">SABIT IQBAL MAULANA  /  QUALITY ASSURANCE · IPQC</text>
+<text x="1226" y="699" fill="#B4C9D4" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" letter-spacing="0.7" text-anchor="end">ILLUSTRATIVE DIAGRAM · NO INTERNAL PHOTOGRAPHY</text>
+<rect x="55" y="244" width="373" height="348" rx="10" fill="#FFFFFF" stroke="#D7E1E6" stroke-width="2"/>
+<rect x="55" y="244" width="373" height="54" rx="10" fill="#11263A"/>
+<rect x="55" y="280" width="373" height="18" rx="0" fill="#11263A"/>
+<text x="77" y="279" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="800" letter-spacing="0" text-anchor="start">PEOPLE</text>
+<text x="406" y="279" fill="#84d9e8" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="800" letter-spacing="0" text-anchor="end">01</text>
+<circle cx="108" cy="327" r="23" fill="#e8f7fb" stroke="#159cbd" stroke-width="2"/>
+<text x="108" y="337" fill="#159cbd" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="800" letter-spacing="0" text-anchor="middle">1</text>
+<text x="146" y="337" fill="#11263A" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" letter-spacing="0" text-anchor="start">Operator consistency</text>
+<text x="80" y="389" fill="#657382" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="600" letter-spacing="0" text-anchor="start">Focus and technique</text>
+<text x="80" y="418" fill="#657382" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="600" letter-spacing="0" text-anchor="start">can vary during</text>
+<text x="80" y="447" fill="#657382" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="600" letter-spacing="0" text-anchor="start">repetitive assembly.</text>
+<line x1="79" y1="486" x2="404" y2="486" stroke="#D9E3E8" stroke-width="2"/>
+<rect x="78" y="507" width="150" height="34" rx="6" fill="#159cbd"/>
+<text x="153.0" y="530" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="800" letter-spacing="0.7" text-anchor="middle">OJT</text>
+<text x="78" y="569" fill="#11263A" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700" letter-spacing="0" text-anchor="start">Skill assessment</text>
+<rect x="454" y="244" width="373" height="348" rx="10" fill="#FFFFFF" stroke="#D7E1E6" stroke-width="2"/>
+<rect x="454" y="244" width="373" height="54" rx="10" fill="#11263A"/>
+<rect x="454" y="280" width="373" height="18" rx="0" fill="#11263A"/>
+<text x="476" y="279" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="800" letter-spacing="0" text-anchor="start">METHOD</text>
+<text x="805" y="279" fill="#84d9e8" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="800" letter-spacing="0" text-anchor="end">02</text>
+<circle cx="507" cy="327" r="23" fill="#e8f7fb" stroke="#159cbd" stroke-width="2"/>
+<text x="507" y="337" fill="#159cbd" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="800" letter-spacing="0" text-anchor="middle">2</text>
+<text x="545" y="337" fill="#11263A" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" letter-spacing="0" text-anchor="start">Work standardization</text>
+<text x="479" y="389" fill="#657382" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="600" letter-spacing="0" text-anchor="start">Sequence and handling</text>
+<text x="479" y="418" fill="#657382" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="600" letter-spacing="0" text-anchor="start">must be clear and</text>
+<text x="479" y="447" fill="#657382" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="600" letter-spacing="0" text-anchor="start">repeatable.</text>
+<line x1="478" y1="486" x2="803" y2="486" stroke="#D9E3E8" stroke-width="2"/>
+<rect x="477" y="507" width="150" height="34" rx="6" fill="#159cbd"/>
+<text x="552.0" y="530" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="800" letter-spacing="0.7" text-anchor="middle">SOP review</text>
+<text x="477" y="569" fill="#11263A" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700" letter-spacing="0" text-anchor="start">Work instruction</text>
+<rect x="853" y="244" width="373" height="348" rx="10" fill="#FFFFFF" stroke="#D7E1E6" stroke-width="2"/>
+<rect x="853" y="244" width="373" height="54" rx="10" fill="#11263A"/>
+<rect x="853" y="280" width="373" height="18" rx="0" fill="#11263A"/>
+<text x="875" y="279" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="800" letter-spacing="0" text-anchor="start">TOOLS</text>
+<text x="1204" y="279" fill="#84d9e8" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="800" letter-spacing="0" text-anchor="end">03</text>
+<circle cx="906" cy="327" r="23" fill="#e8f7fb" stroke="#159cbd" stroke-width="2"/>
+<text x="906" y="337" fill="#159cbd" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="800" letter-spacing="0" text-anchor="middle">3</text>
+<text x="944" y="337" fill="#11263A" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" letter-spacing="0" text-anchor="start">Tool condition</text>
+<text x="878" y="389" fill="#657382" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="600" letter-spacing="0" text-anchor="start">Screwdriver, torque</text>
+<text x="878" y="418" fill="#657382" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="600" letter-spacing="0" text-anchor="start">settings and balancer</text>
+<text x="878" y="447" fill="#657382" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="600" letter-spacing="0" text-anchor="start">require verification.</text>
+<line x1="877" y1="486" x2="1202" y2="486" stroke="#D9E3E8" stroke-width="2"/>
+<rect x="876" y="507" width="150" height="34" rx="6" fill="#159cbd"/>
+<text x="951.0" y="530" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="800" letter-spacing="0.7" text-anchor="middle">Tool check</text>
+<text x="876" y="569" fill="#11263A" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700" letter-spacing="0" text-anchor="start">Calibration review</text>
+</svg>
